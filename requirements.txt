@@ -25,6 +25,6 @@ referencing==0.8.0
 six==1.16.0
 SQLAlchemy==2.0.22
 typing-extensions
-werkzeug=
+werkzeug
 flask-swagger-ui
 
