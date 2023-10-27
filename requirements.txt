@@ -24,7 +24,7 @@ pytz==2023.3.post1
 referencing==0.8.0
 six==1.16.0
 SQLAlchemy==2.0.22
-typing-extensions==4.8.0
-werkzeug==3.0.0
+typing-extensions
+werkzeug=
 flask-swagger-ui
 
