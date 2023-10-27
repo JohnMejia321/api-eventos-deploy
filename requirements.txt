@@ -9,7 +9,8 @@ Flask-RESTful==0.3.10
 flask-restplus==0.13.0
 Flask-SQLAlchemy==2.5.0
 greenlet==3.0.0
-importlib-metadata==6.8.0
+importlib-metadata==4.8.1
+
 importlib-resources==6.1.0
 itsdangerous==2.1.2
 Jinja2==3.1.2
