@@ -27,4 +27,4 @@ SQLAlchemy==2.0.22
 typing-extensions
 werkzeug
 flask-swagger-ui
-
+gunicorn
